@@ -1,2 +1,6 @@
-# Trabajo
-Trabajo en clase sobre actualizaciones con Azure
+# Code
+- Página estatica de ejemplo
+- Utilizando el framework Bootstrap 4
+
+# Preview
+![](img/screenshot.png)
